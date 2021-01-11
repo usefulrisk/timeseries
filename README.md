@@ -1,5 +1,7 @@
 # timeseries
 A library for managing time series
+
+
 Most of statistical software (R, pandas,...) require the data to be evenly distanced in time. This is a fiction when working in IoT or when one processes data from source in a more general way. When receiving data from sources, before processing data in a statistics oriented software, one must:
 
 1. organize reception of data (from source to database. Not in this library)
