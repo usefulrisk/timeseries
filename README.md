@@ -8,6 +8,6 @@ Most of statistical software (R, pandas,...) require the data to be evenly dista
 2. structure them into time series
 3. clean data (missing data, impossible data, out-of-bounds,...)
 4. regularize time frequency (seconds, minutes, hours,...)
-5. keep track of the processes applied to original data (easily identify)
+5. keep track of the processes applied to original data (easily identify different stages)
 
 This requires mastering of time library and missing data. Mastering time and time statistics is especially tricky. So much that I could not find any library for our purpose.
